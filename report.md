@@ -2,6 +2,7 @@
 ============================
 
 运行环境：Python 3 + scikit-learn / pandas / matplotlib / seaborn 已内置。所有脚本均在仓库根目录下，可直接运行。
+https://github.com/Zhongyan-xu/aihomework
 
 一、基础作业：声纳矿物数据集（SONAR）
 -----------------------------------
