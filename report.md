@@ -2,7 +2,6 @@
 ============================
 
 运行环境：Python 3 + scikit-learn / pandas / matplotlib / seaborn 已内置。所有脚本均在仓库根目录下，可直接运行。
-https://github.com/Zhongyan-xu/aihomework
 
 一、基础作业：声纳矿物数据集（SONAR）
 -----------------------------------
@@ -49,3 +48,7 @@ https://github.com/Zhongyan-xu/aihomework
 - 设计说明与超参数：见本 `report.md`。
 - 运行结果与图表：控制台输出 + `outputs/*.png` 混淆矩阵。
 - 优化思路：各节“可优化方向”已给出，可据此进一步提升得分或精度。
+
+五、项目仓库
+-----------
+本项目代码与报告托管于 GitHub：https://github.com/Zhongyan-xu/aihomework
